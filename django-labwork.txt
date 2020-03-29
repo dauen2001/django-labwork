@@ -1,0 +1,32 @@
+django-labwork ( api, week9, db.sqlite3, manage.py)
+
+Information about api is given as api.txt
+
+
+week9{
+
+1) __pycache__
+
+2) __init__.py
+
+3) asgi.py
+
+4) settings.py
+
+5) urls.py
+
+6) wsgi.py
+
+}
+
+
+
+next:
+db.sqlite3
+manage.py
+
+
+
+
+
+
