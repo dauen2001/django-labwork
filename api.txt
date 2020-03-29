@@ -1,0 +1,39 @@
+api (__pycache__ , migrations, other files)
+
+
+
+
+
+migrations {
+
+1) 0001_initial.py
+
+2) 0002_auto_20200324_1621.py
+
+3) 0003_auto_20200324_1630.py
+
+}
+
+
+
+
+
+other files {
+
+1) __init__.py
+
+2) admin.py
+
+3) apps.py
+
+4) models.py
+ 
+5) tests.py
+
+6) urls.py
+
+7) views.py
+
+}
+
+
